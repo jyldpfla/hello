@@ -1,3 +1,8 @@
 public class Main {
-	// 헬로 월드 찍을거임
+	public static void main(String[] args) {
+		/*
+		 * Push 연습
+		 */
+		System.out.println("Push Push");
+	}
 }
