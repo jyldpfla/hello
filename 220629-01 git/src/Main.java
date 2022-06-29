@@ -4,5 +4,6 @@ public class Main {
 		 * Push 연습
 		 */
 		System.out.println("Push Push");
+		System.out.println("git은 어렵다!");
 	}
 }
